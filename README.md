@@ -25,7 +25,8 @@ DOCUMRNTATION OF PROJECT
 
 8.    Diagram of data structures used in Project.
 
-   
+   ![Screenshot from 2023-02-20 20-03-39](https://user-images.githubusercontent.com/108324762/220135278-0dac163f-6d30-4dde-8fcd-5f0489bb9a40.png)
+
 
 
 9.     The flow of Project :
